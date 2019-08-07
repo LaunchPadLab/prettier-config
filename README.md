@@ -12,7 +12,7 @@ $ yarn add --dev @launchpadlab/prettier-config
 
 **Edit `package.json`**:
 
-```json
+```jsonc
 {
   // ...
   "prettier": "@launchpadlab/prettier-config"
