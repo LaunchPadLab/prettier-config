@@ -1,0 +1,8 @@
+{
+  "name": "@launchpadlab/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "repository": "https://github.com/launchpadlab/prettier-config",
+  "author": "dpikt",
+  "license": "MIT"
+}
